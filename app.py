@@ -1,2 +1,2 @@
-import streamlit as a
+import streamlit as s
 s.write("Hello world")
